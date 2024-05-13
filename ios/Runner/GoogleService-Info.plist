@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBYTwbZu5YIzhVAUtTRrZn0_rVGWKs51j8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>248647408477</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.funr.app.game</string>
+	<key>PROJECT_ID</key>
+	<string>funrize-5b34b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>funrize-5b34b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:248647408477:ios:4b4739a1f538935ec0a6b4</string>
+</dict>
+</plist>
