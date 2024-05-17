@@ -1,4 +1,4 @@
-package com.funr.app.game
+package com.look.ofgame.utills
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -58,6 +58,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '248647408477',
     projectId: 'funrize-5b34b',
     storageBucket: 'funrize-5b34b.appspot.com',
-    iosBundleId: 'com.funr.app.game',
+    iosBundleId: 'com.look.ofgame.utills',
   );
 }
